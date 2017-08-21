@@ -30,3 +30,4 @@ filebeat.runlevels_install:
   cmd.run:
     - name: update-rc.d filebeat defaults 95 10
 {% endif %}
+by jgo
